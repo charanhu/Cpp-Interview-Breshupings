@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
   string cars[5];
-  cars[0] = "Volv";
+  cars[0] = "Volvo";
   cars[1] = "BMW";
   cars[2] = "Ford";
   cars[3] = "Mazda";
